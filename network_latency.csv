@@ -1,0 +1,4 @@
+Source,Destination,MinRTT,AvgRTT,MaxRTT
+h1,h2,0.078,0.578,4.153
+h1,h3,0.072,0.990,8.409
+h2,h3,0.074,0.739,5.424
